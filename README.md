@@ -2,7 +2,7 @@
 
 🐏I am a full time student at VCU.<br/>
 💾I am a Computer Science Major with a Focus on Software Engineering.<br/>
-📠I am also minoring in Supply Chain Managament.<br/>
+📠I am also minoring in Artificial Intelligence.<br/>
 
 
 ## 🌐 LinkedIn:
